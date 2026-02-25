@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    margin: 0;
+    padding: 2vw 0vw;
+    background-color: rgb(28, 171, 236);
+}
+
+/* Image banner */ 
+.banner {
+    height: 400px;
+    width: 100%;
+    background-image: url("../assets/banner-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
